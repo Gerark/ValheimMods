@@ -1,0 +1,516 @@
+[Message:   BepInEx] BepInEx 5.4.17.0 - valheim (12/01/2022 20:34:25)
+[Info   :   BepInEx] Running under Unity v2019.4.31.12409535
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.17.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [SlimVML.Loader 1.1.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   SlimVML] Loading DLLs from D:\SteamLibrary\steamapps\common\Valheim\InSlimVML\Mods
+[Warning:   SlimVML] Skipping 0Harmony.dll since it's in ignore list
+[Info   :   SlimVML] Invoking static void SlimAssist.SlimAssist::Main(string[] args)
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 14 plugins to load
+[Warning:   BepInEx] Skipping [HeightmapUnlimited 1.3.3] because a newer version exists (HeightmapUnlimited 1.3.3)
+[Warning:   BepInEx] Skipping [Jotunn 2.6.0] because a newer version exists (Jotunn 2.6.0)
+[Warning:   BepInEx] Skipping [Show Container Contents 0.3.0] because a newer version exists (Show Container Contents 0.3.0)
+[Warning:   BepInEx] Skipping [Display BepInEx Info In-Game 2.0.0] because a newer version exists (Display BepInEx Info In-Game 2.0.0)
+[Info   :   BepInEx] Loading [Show Container Contents 0.3.0]
+[Info   :   BepInEx] Loading [Inventory Sort 1.0.1]
+[Info   :Inventory Sort] Patched InventoryGui
+[Info   :   BepInEx] Loading [Jotunn 2.6.0]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Jötunn v2.6.0 loaded successfully
+[Info   :   BepInEx] Loading [PotionsPlus 3.2.2]
+[Info   :   BepInEx] Loading [OdinArchitect 0.1.3]
+[Info   :OdinArchitect.OdinArchitect] Embedded resources: OdinArchitect.odinarchitect
+[Info   :   BepInEx] Loading [HeightmapUnlimited 1.3.3]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.8]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log]  Loading key disableConsole
+[Info   : Unity Log]  Loading key bigPortalNames
+[Info   : Unity Log]  Loading key disableFog
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Loading key rotateY
+[Info   : Unity Log]  Loading key rotateX
+[Info   : Unity Log]  Loading key rotateZ
+[Info   : Unity Log]  Loading key copyRotationParallel
+[Info   : Unity Log]  Loading key copyRotationPerpendicular
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Loading key align
+[Info   : Unity Log]  Loading key alignToggle
+[Info   : Unity Log]  Loading key changeDefaultAlignment
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.5]
+[Info   :   BepInEx] Loading [ColorfulSigns 5.4.1604]
+[Info   :ColorfulSigns] Searching for colors in path: 'D:\SteamLibrary\steamapps\common\Valheim\BepInEx\plugins\color_library.json'
+[Info   :ColorfulSigns] Loaded 7 colors!
+
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 04/11/2022 20:34:51: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 04/11/2022 20:34:54: Using environment steamid 892970
+
+[Info   : Unity Log] 04/11/2022 20:34:54: Using steam APPID:892970
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Steam initialized, persona:Gerark
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Using default prefs
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Valheim version:0.208.1@0.9.9.8
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 04/11/2022 20:34:55: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 04/11/2022 20:34:55: Missing audio clip in music respawn
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Checking for installed DLCs
+
+[Info   : Unity Log] 04/11/2022 20:34:55: DLC:beta installed:False
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/11/2022 20:34:55: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 04/11/2022 20:34:56: Loaded localization CSV:localization language:Italian
+
+[Info   : Unity Log] 04/11/2022 20:34:56: Loaded localization CSV:localization_extra language:Italian
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 04/11/2022 20:34:56: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/11/2022 20:34:56: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] 04/11/2022 20:34:56: Loaded localization CSV:localization language:Italian
+
+[Info   : Unity Log] 04/11/2022 20:34:56: Loaded localization CSV:localization_extra language:Italian
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Italian'
+[Info   :Jotunn.Managers.ItemManager] Adding 22 custom items to the ObjectDB
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 04/11/2022 20:34:59: UI Group status changed Menu = True
+
+[Info   : Unity Log] 04/11/2022 20:35:01: UI Group status changed Menu = True
+
+[Info   : Unity Log] 04/11/2022 20:35:04: FOund selected Start game
+
+[Info   : Unity Log] 04/11/2022 20:35:04: show character selection
+
+[Info   : Unity Log] 04/11/2022 20:35:05: OnCharacterStart
+
+[Info   : Unity Log] 04/11/2022 20:35:12: Steam initialized, persona:Gerark
+
+[Info   : Unity Log] 04/11/2022 20:35:12: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 04/11/2022 20:35:12: Loading player profile gerpetto
+
+[Info   : Unity Log] 04/11/2022 20:35:12: Zonesystem Awake 754
+
+[Info   : Unity Log] 04/11/2022 20:35:12: DungeonDB Awake 754
+
+[Info   : Unity Log] 04/11/2022 20:35:12: Steam initialized, persona:Gerark
+
+[Info   :Jotunn.Managers.PrefabManager] Adding 122 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 22 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 17 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 5 custom item conversions
+[Info   :Jotunn.Managers.PieceManager] Adding 95 custom pieces to the PieceTables
+[Info   : Unity Log] 04/11/2022 20:35:16: Audioman already exist, destroying self
+
+[Info   : Unity Log] 04/11/2022 20:35:16: Checking for installed DLCs
+
+[Info   : Unity Log] 04/11/2022 20:35:16: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 04/11/2022 20:35:19: Zonesystem Start 754
+
+[Info   : Unity Log] 04/11/2022 20:35:20: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 04/11/2022 20:35:20: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+
+[Info   : Unity Log] 04/11/2022 20:35:20: DungeonDB Start 754
+
+[Info   : Unity Log] 04/11/2022 20:35:20: Load world GerryWorld
+
+[Info   : Unity Log] 04/11/2022 20:35:20: Loading 1151295 zdos , my id 2715709084 data version:28
+
+[Info   : Unity Log] 04/11/2022 20:35:23: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 04/11/2022 20:35:24: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 04/11/2022 20:35:24: Loaded 7492 locations
+
+[Info   : Unity Log] 04/11/2022 20:35:24: Starting respawn
+
+[Info   : Unity Log] 04/11/2022 20:35:34: Unpacking compressed mapdata 27381
+
+[Info   : Unity Log] 04/11/2022 20:35:34: tip:$loadscreen_tip25
+
+[Info   : Unity Log] 04/11/2022 20:35:42: Spawned after 8.019994
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 04/11/2022 20:35:43: Minimap: Adding unique location (-124.2, 33.2, 3.0)
+
+[Info   : Unity Log] 04/11/2022 20:35:43: Minimap: Adding unique location (1843.7, 82.4, -687.2)
+
+[Info   : Unity Log] 04/11/2022 20:35:45: Resumed music meadows at 0
+
+[Info   : Unity Log] 04/11/2022 20:36:16: Player 2715709084 wants to open piece_chest(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:16: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 4, was 0, rebuilding sort button.
+[Info   :Inventory Sort] Player inventory grid changed size from 0 to 4, rebuilding.
+[Info   : Unity Log] 04/11/2022 20:36:16: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:16: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:16: UI Group status changed Container = False
+
+[Info   : Unity Log] 04/11/2022 20:36:17: Player 2715709084 wants to open piece_chest(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:17: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 4, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:36:17: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:17: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:21: Player 2715709084 wants to open piece_chest_wood(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:21: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 2, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:36:21: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:21: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:26: Player 2715709084 wants to open piece_chest_wood(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:26: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 2, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:36:26: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:26: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:27: Player 2715709084 wants to open piece_chest_wood(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:27: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 2, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:36:27: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:27: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:29: Stopped music meadows at 1937869
+
+[Info   : Unity Log] 04/11/2022 20:36:29: Resumed music meadows at 1937869
+
+[Info   : Unity Log] 04/11/2022 20:36:29: Player 2715709084 wants to open piece_chest_wood(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:29: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 2, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:36:29: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:29: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:36: Player 2715709084 wants to open piece_chest_wood(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:36:36: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 2, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:36:36: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:36: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:47: Setting selected recipe 14
+
+[Info   : Unity Log] 04/11/2022 20:36:47: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:36:47: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:36:49: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:36:51: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:36:52: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:36:56: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:37:01: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:37:01: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:37:01: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:37:04: Stopped music meadows at 3487422
+
+[Info   : Unity Log] 04/11/2022 20:37:04: Resumed music home at 0
+
+[Info   : Unity Log] 04/11/2022 20:37:04: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:37:05: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:37:09: Stopped music home at 234174
+
+[Info   : Unity Log] 04/11/2022 20:37:09: Resumed music meadows at 3487422
+
+[Info   : Unity Log] 04/11/2022 20:37:12: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:37:12: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:37:12: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:37:14: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:37:14: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:37:14: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:37:18: Stopped music meadows at 3870978
+
+[Info   : Unity Log] 04/11/2022 20:37:18: Resumed music meadows at 3870978
+
+[Info   : Unity Log] 04/11/2022 20:37:52: Stopped music meadows at 5388307
+
+[Info   : Unity Log] 04/11/2022 20:37:52: Resumed music meadows at 5388307
+
+[Info   : Unity Log] 04/11/2022 20:37:56: Stopped music meadows at 5551066
+
+[Info   : Unity Log] 04/11/2022 20:37:56: Resumed music home at 234174
+
+[Info   : Unity Log] 04/11/2022 20:37:57: Stopped music home at 262519
+
+[Info   : Unity Log] 04/11/2022 20:37:57: Resumed music meadows at 5551066
+
+[Info   : Unity Log] 04/11/2022 20:37:57: Stopped music meadows at 5555784
+
+[Info   : Unity Log] 04/11/2022 20:37:57: Resumed music home at 262519
+
+[Info   : Unity Log] 04/11/2022 20:38:01: Stopped music home at 419990
+
+[Info   : Unity Log] 04/11/2022 20:38:01: Resumed music meadows at 5555784
+
+[Info   : Unity Log] 04/11/2022 20:38:26: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 04/11/2022 20:38:40: Setting selected recipe 0
+
+[Info   : Unity Log] 04/11/2022 20:38:40: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:38:40: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:38:45: Stopped music meadows at 7492587
+
+[Info   : Unity Log] 04/11/2022 20:38:45: Resumed music meadows at 7492587
+
+[Info   : Unity Log] 04/11/2022 20:38:45: Player 2715709084 wants to open piece_chest(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:38:45: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 4, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:38:45: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:38:45: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:38:46: Player 2715709084 wants to open piece_chest(Clone)   im: 2715709084
+
+[Info   : Unity Log] 04/11/2022 20:38:46: Setting selected recipe 0
+
+[Info   :Inventory Sort] Player opened container of height 4, was 0, rebuilding sort button.
+[Info   : Unity Log] 04/11/2022 20:38:46: UI Group status changed root = True
+
+[Info   : Unity Log] 04/11/2022 20:38:46: UI Group status changed Player = True
+
+[Info   : Unity Log] 04/11/2022 20:38:47: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 04/11/2022 20:38:49: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 04/11/2022 20:38:50: Game - OnApplicationQuit
+
+[Info   : Unity Log] 04/11/2022 20:38:50: Shuting down
+
+[Info   : Unity Log] 04/11/2022 20:38:50: Uncompressed size 8403562
+
+[Info   : Unity Log] 04/11/2022 20:38:50: Compressed size 27381
+
+[Info   : Unity Log] 04/11/2022 20:38:50: ZNet Shutdown
+
+[Info   : Unity Log] 04/11/2022 20:38:51: clone 1330
+
+[Info   : Unity Log] 04/11/2022 20:38:54: Sending disconnect msg
+
+[Info   : Unity Log] 04/11/2022 20:38:57: FOund selected Button_yes
+
+[Info   : Unity Log] 04/11/2022 20:38:57: ZNet OnDestroy
+
+[Info   : Unity Log] 04/11/2022 20:38:57: Net scene destroyed
+
+[Info   : Unity Log] 04/11/2022 20:38:57: Steam manager on destroy
+
+[Warning: Unity Log] 04/11/2022 20:38:57: Local player destroyed
+
+[Info   : Unity Log] ShowContainerContents Destroying plugin
+[Info   :Inventory Sort] Unpatched InventoryGui
